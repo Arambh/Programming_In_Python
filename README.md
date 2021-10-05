@@ -1,2 +1,2 @@
-Programming_In_Python
-Materials on Python programming
+Programming_In_Python:
+Materials
