@@ -1,0 +1,15 @@
+SalesId,First Name,Last Name,Sales Date,Total Sales Amt,Region
+XW567,Mike,Kinsley,12-Aug-10,19000,West
+XW345,Sid,Hale,12-Jul-10,21000,West
+XW785,Ed,Berndt,1-Mar-10,31000,West
+XW345,Sid,Hale,19-Sep-10,15000,West
+XW346,Ben,Britt,31-Jan-10,9000,West
+XW908,Eric,Wu,15-Oct-10,15000,West
+XW345,Sid,Hale,12-Nov-10,43000,West
+XW785,Ed,Berndt,1-Dec-10,12000,West
+XW234,Alan,Long,1-Dec-10,27000,West
+XW908,Eric,Wu,21-Jun-10,21000,West
+XW234,Alan,Long,19-May-10,32000,West
+XW785,Ed,Berndt,6-Sep-10,12000,West
+XW567,Mike,Baylor,5-Sep-10,9000,West
+XW345,Sid,Hale,21-Feb-10,9000,West
